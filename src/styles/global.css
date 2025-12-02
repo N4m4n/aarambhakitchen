@@ -1,0 +1,27 @@
+/* ============================= */
+/* GLOBAL RESET & TYPOGRAPHY     */
+/* ============================= */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  background: #ffffff; /* White base layout */
+  color: #111;        /* Black text */
+  line-height: 1.6;
+}
+
+/* Links */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Generic list removal */
+ul {
+  list-style: none;
+}

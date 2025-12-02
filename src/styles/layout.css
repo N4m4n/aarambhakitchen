@@ -1,0 +1,43 @@
+/* ============================= */
+/* PAGE / CONTAINER STYLING      */
+/* ============================= */
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Main content area */
+.main-content {
+  flex: 1;
+  padding: 2rem 1rem;
+}
+
+/* Generic page section */
+.page-section {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  border-bottom: 1px solid #eee;
+}
+
+/* Headings */
+.page-section h2,
+.page-section h3 {
+  color: #e63946; /* Red accent headings */
+  margin-bottom: 1rem;
+}
+
+.page-section p {
+  margin-bottom: 1rem;
+  font-size: 1.05rem;
+}
+
+/* List styling */
+.list li {
+  margin-bottom: 0.7rem;
+  padding-left: 0.5rem;
+  border-left: 3px solid #e63946;
+  font-size: 1.05rem;
+}
