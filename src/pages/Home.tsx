@@ -12,7 +12,7 @@ export default function Home() {
         </p>
 
         <p className="sub-text">
-          Daily meals • Corporate catering • Customized plans
+          Daily meals • Corporate Meals • Customized plans
         </p>
 
         <a target="_blank" href="https://api.whatsapp.com/send/?phone=918317305891&text=Hi%21+I+wish+to+enquire+about+your+services%21&type=phone_number&app_absent=0">
