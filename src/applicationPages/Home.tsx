@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div>
-      <h1>Welcome to Aarambh Kitchen</h1>
+      <h1>Welcome to Aarambha Kitchen</h1>
       <p>
         Aarambha Kitchen is a Bangalore-based homemade food service founded in
         2023 with a simple purpose is to bring the comfort, freshness, and

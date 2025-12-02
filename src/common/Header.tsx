@@ -6,7 +6,7 @@ export default function Header() {
 
   return (
     <header>
-      <h2>Aarambh Kitchen</h2>
+      <h2>Aarambha Kitchen</h2>
 
       <div
         className="mobile-menu"
